@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78edf784cebc72843b4ad19e2dabd46a, type: 3}
+  m_Name: MomentData
+  m_EditorClassIdentifier: 
+  momentClip: {fileID: 32900000, guid: 2048cc2776022384d910ed2d98a2b077, type: 3}
+  playerName: abc
+  team_a_name: xyz
+  team_a_scoreRun: 222
+  team_a_scoreWic: 5
+  team_a_homeAway: Home
+  team_b_name: abx
+  team_b_scoreRun: 233
+  team_b_scoreWic: 3
+  team_b_homeAway: AWAY
+  playerNumber: 
+  packImage: {fileID: 0}
+  video_SS_BG: {fileID: 0}
+  numberBG: {fileID: 0}
+  teamLogoImage: {fileID: 0}
+  assosiationLogoImage: {fileID: 0}
+  companyLogoImage: {fileID: 0}

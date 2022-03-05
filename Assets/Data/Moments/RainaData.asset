@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78edf784cebc72843b4ad19e2dabd46a, type: 3}
+  m_Name: RainaData
+  m_EditorClassIdentifier: 
+  momentClip: {fileID: 32900000, guid: 00e5b690024e3254fa3d51071fd0d45a, type: 3}
+  playerName: RAINA
+  team_a_name: IND
+  team_a_scoreRun: 253
+  team_a_scoreWic: 6
+  team_a_homeAway: HOME
+  team_b_name: AUS
+  team_b_scoreRun: 257
+  team_b_scoreWic: 3
+  team_b_homeAway: AWAY
+  playerNumber: 48

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GLitchLogo
+  m_Shader: {fileID: -6465566751694194690, guid: e7d596db608e49a45a9a12b94d11679a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_11e51d14aa4d492daa264dfdd7c19255:
+        m_Texture: {fileID: 2800000, guid: 363b4b2e26f122a4ea421963bca43c83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - logo:
+        m_Texture: {fileID: 2800000, guid: 372baab58450bb94e927b8969d1ff86d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0dd67f660a634bd69e5d5f5068fcfabd: 0
+    - Vector1_ab0088b45b6e40f99069747612acbcaf: 0
+    - Vector1_c5d320dddf454de68c6c3efdff621685: 0
+    m_Colors:
+    - Color_18c1d3cb51d6412da3cb6415675e2189: {r: 1, g: 0.000000003973643, b: 0, a: 0}
+    - Color_7196bb468e294fc09ba87eb4a81a6991: {r: 0, g: 1, b: 0, a: 0}
+    - Color_fdaa0c9e9ebf4d49b662b069bcdd851a: {r: 0, g: 0, b: 1, a: 0}
+  m_BuildTextureStacks: []

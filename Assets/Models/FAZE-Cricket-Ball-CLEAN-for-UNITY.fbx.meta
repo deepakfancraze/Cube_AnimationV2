@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 0d33bcaa4d5dceb4ab414946da5bfb0e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5662301257534189635
+    second: BALL|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: -4807414418483908138
+    second: BALL construction.002|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: 7185768817884408735
+    second: BALL construction.003|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: 8957716001076522499
+    second: SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: 9081852623872380185
+    second: SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: -4849827974358156940
+    second: SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: 4802089418183379291
+    second: SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction
+  - first:
+      74: -8460942273954340260
+    second: BALL construction.002|CONTROLEURAction
+  - first:
+      74: -1352682587751451032
+    second: BALL construction.002|Empty Animation NodeAction.006
+  - first:
+      74: 6672498010485241527
+    second: BALL construction.003|CONTROLEURAction
+  - first:
+      74: -8208223631060183943
+    second: BALL construction.003|Empty Animation NodeAction.006
+  - first:
+      74: 8329818090933522369
+    second: BALL WireFrame|CONTROLEURAction
+  - first:
+      74: -8911758771405639712
+    second: BALL WireFrame|Empty Animation NodeAction.006
+  - first:
+      74: -2103434166523518510
+    second: BALL Wireframe 2|CONTROLEURAction
+  - first:
+      74: -6298751955118352690
+    second: BALL Wireframe 2|Empty Animation NodeAction.006
+  - first:
+      74: -3940739048991526792
+    second: SEAMS 01.005|CONTROLEURAction
+  - first:
+      74: 4541662950030456616
+    second: SEAMS 01.005|Empty Animation NodeAction.006
+  - first:
+      74: 681714683307917994
+    second: SEAMS 02.005|CONTROLEURAction
+  - first:
+      74: 2336129171887643762
+    second: SEAMS 02.005|Empty Animation NodeAction.006
+  - first:
+      74: 5800758743596700853
+    second: SEAMS 03.003|CONTROLEURAction
+  - first:
+      74: 1115641623070854729
+    second: SEAMS 03.003|Empty Animation NodeAction.006
+  - first:
+      74: -8924850420266514806
+    second: SEAMS 04|CONTROLEURAction
+  - first:
+      74: -1955493541982782248
+    second: SEAMS 04|Empty Animation NodeAction.006
+  - first:
+      74: 2856609771355518713
+    second: BALL construction.002|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: 953925409073174322
+    second: BALL construction.002|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: 6821389696673537783
+    second: BALL construction.002|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 2378728388570544813
+    second: BALL construction.002|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: -7850013277322437425
+    second: BALL construction.002|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: 7815441071396646775
+    second: BALL construction.002|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -5814221735952543845
+    second: BALL construction.002|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 5267753565410906523
+    second: BALL construction.002|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 4285477417063316822
+    second: BALL construction.002|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: -7157518448355350554
+    second: BALL construction.003|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: 653793664540557862
+    second: BALL construction.003|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -2523197124392238470
+    second: BALL construction.003|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 1953547610618195827
+    second: BALL construction.003|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: 5024561569724160487
+    second: BALL construction.003|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: 4979173506709809958
+    second: BALL construction.003|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 8283624712750398518
+    second: BALL construction.003|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 1910756617925486286
+    second: BALL construction.003|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -8374517162470794667
+    second: BALL construction.003|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: 6452750150392259280
+    second: SEAMS 01.005|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: -3577332113944342551
+    second: SEAMS 01.005|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -3609122476864058973
+    second: SEAMS 01.005|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: -8381356882079160312
+    second: SEAMS 01.005|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: 6944091873422421401
+    second: SEAMS 01.005|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: -6757785509219141092
+    second: SEAMS 01.005|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 1463674380090425652
+    second: SEAMS 01.005|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 9193039962926166919
+    second: SEAMS 01.005|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -5567654108708690192
+    second: SEAMS 01.005|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: -8747942839966924152
+    second: SEAMS 02.005|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: -6215647336861258813
+    second: SEAMS 02.005|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: 8829227338846254263
+    second: SEAMS 02.005|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 2764499253741096816
+    second: SEAMS 02.005|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: 4408934255028377878
+    second: SEAMS 02.005|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: -4070976723938440115
+    second: SEAMS 02.005|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 1543540775458710219
+    second: SEAMS 02.005|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -8953709650496755007
+    second: SEAMS 02.005|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 2800267168540504049
+    second: SEAMS 02.005|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: 8249737939305545180
+    second: SEAMS 03.003|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: 3168532459422341732
+    second: SEAMS 03.003|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -5393830818812069216
+    second: SEAMS 03.003|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 2483388647302191276
+    second: SEAMS 03.003|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: 3666563257206526495
+    second: SEAMS 03.003|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: 3782437651940700500
+    second: SEAMS 03.003|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -4628798862283960999
+    second: SEAMS 03.003|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -8191569460739800990
+    second: SEAMS 03.003|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -2816063179826376792
+    second: SEAMS 03.003|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: -2809248575516224110
+    second: SEAMS 04|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: 8156449900258063404
+    second: SEAMS 04|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -3681819148768558089
+    second: SEAMS 04|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 9015386848842698705
+    second: SEAMS 04|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: -5544974893338840096
+    second: SEAMS 04|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: 9080084614834101888
+    second: SEAMS 04|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -4175418472997170916
+    second: SEAMS 04|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 1258821889703733330
+    second: SEAMS 04|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -716521693754811457
+    second: SEAMS 04|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: 379308103029937294
+    second: BALL|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: -2921446682220547983
+    second: BALL|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -516899290555171922
+    second: BALL|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: -3550004166054050853
+    second: BALL|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: -3898739573427461145
+    second: BALL|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: -6532753808956176761
+    second: BALL|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 2485622586559297130
+    second: BALL|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 3073672166705250008
+    second: BALL|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 6383012101814891183
+    second: BALL|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: -7288504021710043797
+    second: BALL Wireframe.001|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: 3910528143522645515
+    second: BALL Wireframe.001|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -8691113011666306671
+    second: BALL Wireframe.001|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 8498119163142518017
+    second: BALL Wireframe.001|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: -1245670316583607481
+    second: BALL Wireframe.001|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: 5428044827475899751
+    second: BALL Wireframe.001|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 8379380480305887915
+    second: BALL Wireframe.001|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -5015190101857002359
+    second: BALL Wireframe.001|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 3107738562504845153
+    second: BALL Wireframe.001|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  - first:
+      74: -8692905985386004485
+    second: BALL Wireframe|BALL construction.002|BALL construction.002|Cube.001|Cube|C
+  - first:
+      74: -737224646172738207
+    second: BALL Wireframe|BALL construction.002|BALL construction.002|Cube.001|Cube|CubeA
+  - first:
+      74: -6199573332108905283
+    second: BALL Wireframe|BALL construction.003|BALL construction.003|Cube.001|Cube|C
+  - first:
+      74: 7452735120004855674
+    second: BALL Wireframe|BALL construction.003|BALL construction.003|Cube.001|Cube|CubeA
+  - first:
+      74: -884435697559189710
+    second: BALL Wireframe|BALL|BALL|Cube.001|Cube|CubeAction|Cube|CubeAction|BALL|Cube.00
+  - first:
+      74: -9163731973820778189
+    second: BALL Wireframe|SEAMS 01.005|SEAMS 01.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -8720145008347347970
+    second: BALL Wireframe|SEAMS 02.005|SEAMS 02.005|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: 6266032086959401875
+    second: BALL Wireframe|SEAMS 03.003|SEAMS 03.003|Cube.001|Cube|CubeAction|Cube|CubeAct
+  - first:
+      74: -7575600559757943524
+    second: BALL Wireframe|SEAMS 04|SEAMS 04|Cube.001|Cube|CubeAction|Cube|CubeAction|SEAM
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

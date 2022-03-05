@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7914d49a3b38ef04f96a2a14e0e3ea9d, type: 3}
+  m_Name: IntractableVideoMomentList
+  m_EditorClassIdentifier: 
+  currentMoment: 2
+  showAllMoments: 0
+  interactable: 1
+  moments:
+  - {fileID: 11400000, guid: 3d8c08ccfd02c194498267d2d0c266e6, type: 2}
+  - {fileID: 11400000, guid: 59b68d48186c796479ba3fe9c2478bd2, type: 2}
+  - {fileID: 11400000, guid: eabeab9bf2428a647912c35f97575d5b, type: 2}
+  - {fileID: 11400000, guid: 2457339f8900b2e41938c7fca3480cd4, type: 2}
+  - {fileID: 11400000, guid: 736d6dab0bc473f4592d80a904296e0e, type: 2}
