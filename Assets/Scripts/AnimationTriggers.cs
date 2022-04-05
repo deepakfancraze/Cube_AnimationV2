@@ -68,10 +68,10 @@ public class AnimationTriggers : MonoBehaviour
     void OnStateDecided(object data)
     {
         State state = (State)data;
-        if (state == State.Interaction)
-            this.GetComponent<Animator>().runtimeAnimatorController = swipeController;
-        else
-            this.GetComponent<Animator>().runtimeAnimatorController = cubeRotateController;
+        //if (state == State.Interaction)
+        //    this.GetComponent<Animator>().runtimeAnimatorController = swipeController;
+        //else
+        //    this.GetComponent<Animator>().runtimeAnimatorController = cubeRotateController;
 
     }
     private void RotateCube()
@@ -79,7 +79,7 @@ public class AnimationTriggers : MonoBehaviour
         if (StateController.GetState() == State.Recording || StateController.GetState() == State.Video)
         {
             if (VideoRecorder.instance.recordingState == RecordingState.VideoRecording)
-                this.GetComponent<Animator>().SetTrigger("startRotating");
+                this.transform.parent.GetComponent<Animator>().SetTrigger("startRotating");
             else
                 this.GetComponent<Animator>().SetTrigger("screenShots");
         }

@@ -26,18 +26,18 @@ public class CubeDataController : MonoBehaviour
     //2nd score a,b name a,b, home ,away 
     [Space]
     [SerializeField] TextMeshPro team_a_name_text;
-    [SerializeField] TextMeshPro team_a_scoreRun_text;
-    [SerializeField] TextMeshPro team_a_scoreWic_text;
+    //[SerializeField] TextMeshPro team_a_scoreRun_text;
+    //[SerializeField] TextMeshPro team_a_scoreWic_text;
     [SerializeField] TextMeshPro overs_a_text;
     [SerializeField] TextMeshPro team_a_score;
-    [SerializeField] TextMeshPro team_a_homeAway_text;
+    //[SerializeField] TextMeshPro team_a_homeAway_text;
     [Space]
     [SerializeField] TextMeshPro team_b_name_text;
-    [SerializeField] TextMeshPro team_b_scoreRun_text;
-    [SerializeField] TextMeshPro team_b_scoreWic_text;
+    //[SerializeField] TextMeshPro team_b_scoreRun_text;
+    //[SerializeField] TextMeshPro team_b_scoreWic_text;
     [SerializeField] TextMeshPro team_b_score;
     [SerializeField] TextMeshPro overs_b_text;
-    [SerializeField] TextMeshPro team_b_homeAway_text;
+    //[SerializeField] TextMeshPro team_b_homeAway_text;
     //3rd player number
     [Space]
     [SerializeField] TextMeshPro playerNumber_text;
@@ -178,13 +178,13 @@ public class CubeDataController : MonoBehaviour
         momentVideoPlayer.clip = momentData.momentClip;
         playerName.text = momentData.playerName;
         team_a_name_text.text = momentData.team_a_name;
-        team_a_scoreRun_text.text = momentData.team_a_scoreRun;
-        team_a_scoreWic_text.text = momentData.team_a_scoreWic;
-        team_a_homeAway_text.text = momentData.team_a_homeAway;
+        //team_a_scoreRun_text.text = momentData.team_a_scoreRun;
+        //team_a_scoreWic_text.text = momentData.team_a_scoreWic;
+        //team_a_homeAway_text.text = momentData.team_a_homeAway;
         team_b_name_text.text = momentData.team_b_name;
-        team_b_scoreRun_text.text = momentData.team_b_scoreRun;
-        team_b_scoreWic_text.text = momentData.team_b_scoreWic;
-        team_b_homeAway_text.text = momentData.team_b_homeAway;
+        //team_b_scoreRun_text.text = momentData.team_b_scoreRun;
+        //team_b_scoreWic_text.text = momentData.team_b_scoreWic;
+        //team_b_homeAway_text.text = momentData.team_b_homeAway;
         playerNumber_reflection_text.text = playerNumber_text.text = momentData.playerNumber;
 
 
@@ -276,14 +276,14 @@ public class CubeDataController : MonoBehaviour
         string teamScore2 = runScore2 + "/" + wic2;
 
         team_a_name_text.text = nation1.ToUpperInvariant();
-        team_a_scoreRun_text.text = runScore1;
-        team_a_scoreWic_text.text = wic1;
+        //team_a_scoreRun_text.text = runScore1;
+        //team_a_scoreWic_text.text = wic1;
         team_a_score.text = teamScore1;
         overs_a_text.text = over1;
 
         team_b_name_text.text = nation2.ToUpperInvariant();
-        team_b_scoreRun_text.text = runScore2;
-        team_b_scoreWic_text.text = wic2;
+        //team_b_scoreRun_text.text = runScore2;
+        //team_b_scoreWic_text.text = wic2;
         team_b_score.text = teamScore2;
         overs_b_text.text = over2;
 

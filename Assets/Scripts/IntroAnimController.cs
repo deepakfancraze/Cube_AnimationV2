@@ -44,13 +44,22 @@ public class IntroAnimController : MonoBehaviour
     bool isIntroAnimFinished = false;
     private void Awake()
     {
+        Debug.Log("Awake");
+
         instance = this;
         currentAnimator = this.GetComponent<Animator>();
         //instance.currentAnimator.SetTrigger("startIntro");
     }
+    private void Start()
+    {
+        Debug.Log("Start");
+    }
 
     private void OnEnable()
     {
+
+        Debug.Log("onenable");
+
         CubeDataController.setDefaultAnimationBeforeStart += SetDefaultIntroAnimation;
         CubeDataController.onEverythingLoaded += OnEverythingLoaded;
         EventManager.Subscribe(EventManager.EventType.StateDecided, OnStateDecided);
